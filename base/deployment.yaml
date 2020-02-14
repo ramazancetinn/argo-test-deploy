@@ -15,7 +15,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: ramazancetin/hellonode:7
+      - image: ramazancetin/hellonode:latest
         name: demo
         ports:
         - containerPort: 8080
