@@ -6,7 +6,7 @@ patchesStrategicMerge:
 - ./deployment-patch.yaml
 
 images:
-- name: ramazancetinn/hellonode
+- name: ramazancetin/hellonode
   newTag: "8"
 resources:
 - ../base
