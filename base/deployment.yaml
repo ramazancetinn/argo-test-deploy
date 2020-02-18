@@ -18,4 +18,4 @@ spec:
       - image: ramazancetin/hellonode:latest
         name: demo
         ports:
-        - containerPort: 8080
+        - containerPort: 8000
