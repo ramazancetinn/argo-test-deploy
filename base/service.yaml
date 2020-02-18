@@ -9,4 +9,4 @@ spec:
     nodePort: 30000
   selector:
     app: demo
-  type: LoadBalancer
+  type: NodePort
