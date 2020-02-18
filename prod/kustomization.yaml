@@ -7,6 +7,6 @@ patchesStrategicMerge:
 
 images:
 - name: ramazancetin/hellonode
-  newTag: 2134791b0673762536cf146b862db9e7d0679e20
+  newTag: 72ff39a197301fdb8c042c6ede158ac0e8485f3c
 resources:
 - ../base
